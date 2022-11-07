@@ -14,162 +14,37 @@ El proyecto **Baraja++** es una mejora del proyecto Carta en el que se utiliza l
 
 El proyecto **Pokedex** utiliza Windows Builder.
 
+El proyecto **PokedexBBDD** mejora la Pokedex incorporando JDBC.
+
+El proyecto **ClinicaVeterinaria** contiene test del programa con JUnit.
+
+El proyecto **FakeNetflix** incorpora Hash y recuperación de contraseñas.
+
+El proyecto **ColaDelCastigo** incorpora comparadores.
+
+El proyecto **PracticaArboles** incorpora tratamiento de árboles.
+
 ## 💻 Enlace a Proyectos 💻
 
 _Podeis acceder directamente a los distintos proyectos desde los siguientes enlaces:_
 
-* [Once](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Once)
-* [Tesoro](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Tesoro)
-* [Banca](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Banca)
-* [Carta](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Cartas) 
-* [Baraja++](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Baraja%2B%2B) 
-* [Pokedex](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Pokedex) 
-* [PokedexBBDD](https://github.com/AdrianCaMu/Practicas_PR/tree/main/PokedexBBDD)
-* [ColaDelCastigo](https://github.com/AdrianCaMu/Practicas_PR/tree/main/ColaDelCastigo)
-
-## 🎫 Once 🎫
-
-```
-Introduce un numero, se genera uno aleatorio y comprueba si te ha tocado el premio
-```
-
-## 💰 Tesoro 💰
-
-```
-Una especie de buscaminas hecho con matrices en el que tienes que conseguir el tesoro sin morir en el intento
-```
-
-## 💳 Banca 💳
-
-```
-Proyecto formado por dos clases, CuentaCorriente y Persona
-```
-
-```
-Tiene un "main" para probar las clases
-```
-
-```
-Tiene un main donde el usuario podrá hacer uso de las clases con sus menús correspondientes.
-```
-
-## 🃏 Carta 🃏
-
-```
-Proyecto formado por dos clases, Carta y Baraja
-```
-
-```
-Tiene un "main" 7ymedia para probar el funcionamiento de este juego.
-```
-
-```
-Tiene un main donde el usuario podrá jugar al 7ymedio de una forma más visual con menú.
-```
-
-```
-Para crear nuevos juegos hay que añadir el valor de las cartas en la clase carta y en main nuevo.
-```
-
-## ♠♣ Baraja++ ♥♦
-
-```
-7 clases añadidas a las clase Carta y Baraja ya existentes en Carta.
-```
-
-```
-Un mainApp donde los usuarios podrán elegir a juego y jugar.
-```
-
-```
-Un enum de Modos de Juego que finalmente nu fue implementado ya que se hizo con Strings.
-```
-
-_AbstractGame es una clase de juegos genérica_
-
-_AbstractPlayer es una clase de jugadores genérica_
-
-_Carta es una clase donde se define como es una carta_
-
-_Baraja es una clase donde se define como es una baraja_
-
-_CPUPlayer es una clase donde se define el comportamiento del PC para jugar a 7ymedio_
-
-_HumanPlayer es una clase donde se define el comportamiento de un jugador humano para jugar a 7ymedio_
-
-_Mesa es la baraja que compartirán los jugadores que jueguen una partida juntos_
-
-_Mano es la baraja que tiene cada jugador en su posesión, formada por cartas robadas de la baraja de la mesa_
-
-_Sieteymedia es una clase que define como se juega a 7 y medio_
-
-## 🎮 Pokedex 👾
-
-```
-Paquete enums donde encontramos los enum de Tipo del pokemon y del Sexo del pokemon
-```
-
-```
-MainApp para iniciar la ventana de login de la Pokedex
-```
-
-```
-Paquete models donde encontramos las Clases Pokemon y Usuario
-```
-
-```
-Paquete ui donde tenemos las diferentes vistas de la aplicacion
-```
-
-```
-Paquete utils donde encontramos el Almacen de los pokemons y las imagenes utilizadas
-```
-
-_Pokemon es una clase donde se definen los pokemons_
-
-_Usuario es una clase donde se definen los usuarios_
-
-_Login es una vista donde se define la pantalla de login_
-
-_RegisterView es una vista donde se define la pantalla de registro_
-
-_PokedexView es una vista donde se define la pantalla de la Pokedex donde aparecen los pokemons_
-
-_ModifyPokemon es una vista donde se define la pantalla para modificar pokemons existentes_
-
-_AddPokemon es una vista donde se define la pantalla de creación de nuevos pokemons a la pokedex_
-
-## 🎮 PokedexBBDD 👾
-```
-Similar a la pokedex normal pero utilizando una base de datos mySql
-```
-```
-la base de datos utilizada la podeis encontrar en el siguiente enlace
-```
-* [DataBase](https://github.com/AdrianCaMu/Practicas_PR/tree/main/DataBaseForPokedexBBDD)
-
-## 💻 ColaDelCastigo 💻
-
-```
-Utilización de genéricos
-```
-```
-Utilización de comparadores
-```
-```
-Utilización de iteradores
-```
-```
-Utilización de expresiones lambda
-```
-```
-pruebas unitarias con JUnit
-```
-
+* [Banca](https://github.com/camu740/JavaProjects1DAM/tree/main/Banca)
+* [Baraja++](https://github.com/camu740/JavaProjects1DAM/tree/main/Baraja%2B%2B) 
+* [Cartas](https://github.com/camu740/JavaProjects1DAM/tree/main/Cartas) 
+* [ClinicaVeterinaria](https://github.com/camu740/JavaProjects1DAM/tree/main/ClinicaVeterinaria) 
+* [ColaDelCastigo](https://github.com/camu740/JavaProjects1DAM/tree/main/ColaDelCastigo)
+* [CombatePokemon](https://github.com/camu740/JavaProjects1DAM/tree/main/CombatePokemon)
+* [FakeNetflix](https://github.com/camu740/JavaProjects1DAM/tree/main/FakeNetflix)
+* [Once](https://github.com/camu740/JavaProjects1DAM/tree/main/Once)
+* [Pokedex](https://github.com/camu740/JavaProjects1DAM/tree/main/Pokedex) 
+* [PokedexBBDD](https://github.com/camu740/JavaProjects1DAM/tree/main/PokedexBBDD)
+* [PracticaArboles](https://github.com/camu740/JavaProjects1DAM/tree/main/PracticaArboles)
+* [Snake](https://github.com/camu740/JavaProjects1DAM/tree/main/Snake)
+* [Tesoro](https://github.com/camu740/JavaProjects1DAM/tree/main/Tesoro)
 
 ## Contribuciones 👍 
 
-Por favor dejanos tus opiniones en [Twitter](https://twitter.com/adriancamara0) para que pueda mejorar o ayudarte.
+Por favor deja tus opinion en [Twitter](https://twitter.com/adriancamara740) para que pueda mejorar o ayudarte.
 
 ---
-⌨️ por [Adrián Cámara Muñoz](https://twitter.com/adriancamara0) 💛
+⌨️ por [Adrián Cámara Muñoz](https://twitter.com/adriancamara740) 💛
