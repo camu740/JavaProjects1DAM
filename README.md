@@ -159,10 +159,6 @@ _AddPokemon es una vista donde se define la pantalla de creación de nuevos poke
 ```
 Similar a la pokedex normal pero utilizando una base de datos mySql
 ```
-```
-la base de datos utilizada la podeis encontrar en el siguiente enlace
-```
-* [DataBase](https://github.com/AdrianCaMu/Practicas_PR/tree/main/DataBaseForPokedexBBDD)
 
 ## 💻 ColaDelCastigo 💻
 
@@ -184,7 +180,7 @@ pruebas unitarias con JUnit
 
 ## Contribuciones 👍 
 
-Por favor deja tus opinion en [Twitter](https://twitter.com/adriancamara740) para que pueda mejorar o ayudarte.
+Por favor deja tu opinion en [Twitter](https://twitter.com/adriancamara740) para que pueda mejorar o ayudarte.
 
 ---
 ⌨️ por [Adrián Cámara Muñoz](https://twitter.com/adriancamara740) 💛
